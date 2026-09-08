@@ -5,7 +5,7 @@ about:
   head: a1a5697
   archived: false
   latestVersion: "2.0.0dev0"
-  collectedAt: 2026-09-08T02:18:44Z
+  collectedAt: 2026-09-08T05:12:03Z
 timeline:
   created: 2012-11-20
   lastCommit: 2026-08-27
@@ -17,7 +17,7 @@ popularity:
   release: 1
   contributor: 385
   pullRequest: 5097
-  issue: 5008
+  issue: 5010
 language:
   Python: 9251304
   Shell: 1808
@@ -30,7 +30,7 @@ recent:
     mergedPR: 9
     openPR: 41
     closedIssue: 1
-    openIssue: 24
+    openIssue: 26
     commit: 3
   last60d:
     since: 2026-07-10
@@ -38,7 +38,7 @@ recent:
     mergedPR: 27
     openPR: 53
     closedIssue: 5
-    openIssue: 35
+    openIssue: 37
     commit: 63
   last90d:
     since: 2026-06-10
@@ -46,7 +46,7 @@ recent:
     mergedPR: 67
     openPR: 70
     closedIssue: 18
-    openIssue: 43
+    openIssue: 45
     commit: 136
   last180d:
     since: 2026-03-12
@@ -54,7 +54,7 @@ recent:
     mergedPR: 200
     openPR: 112
     closedIssue: 38
-    openIssue: 66
+    openIssue: 68
     commit: 387
   last360d:
     since: 2025-09-13
@@ -62,7 +62,7 @@ recent:
     mergedPR: 415
     openPR: 136
     closedIssue: 106
-    openIssue: 85
+    openIssue: 87
     commit: 819
   last720d:
     since: 2024-09-18
@@ -70,18 +70,18 @@ recent:
     mergedPR: 766
     openPR: 178
     closedIssue: 273
-    openIssue: 123
+    openIssue: 125
     commit: 1691
 total:
   release: 1
   mergedPR: 3729
   openPR: 224
   closedIssue: 4504
-  openIssue: 504
+  openIssue: 506
   commit: 14086
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cli
-collectedAt: 2026-09-08T02:19:53Z
+collectedAt: 2026-09-08T05:13:01Z
 loc:
   Json:
     code: 2850142
