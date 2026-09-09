@@ -7,7 +7,7 @@ about:
   latestVersion: "2.0.0dev0"
   latestRelease: ""
   latestPrerelease: "2.0.0dev0"
-  collectedAt: 2026-09-09T05:16:27Z
+  collectedAt: 2026-09-09T19:19:12Z
 timeline:
   created: 2012-11-20
   lastCommit: 2026-08-27
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 
   lastPrerelease: 2018-11-26
 popularity:
-  star: 17240
+  star: 17241
   watcher: 562
-  fork: 4643
+  fork: 4647
   release: 1
   contributor: 386
-  pullRequest: 5099
+  pullRequest: 5103
   issue: 5010
 language:
   Python: 9251304
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 7
-    openPR: 43
+    openPR: 47
     closedIssue: 1
     openIssue: 26
     commit: 3
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 27
-    openPR: 55
+    openPR: 59
     closedIssue: 5
     openIssue: 37
     commit: 63
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 65
-    openPR: 72
+    openPR: 76
     closedIssue: 18
     openIssue: 45
     commit: 136
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-13
     release: 0
     mergedPR: 196
-    openPR: 113
+    openPR: 117
     closedIssue: 38
     openIssue: 68
     commit: 387
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-14
     release: 0
     mergedPR: 415
-    openPR: 138
+    openPR: 142
     closedIssue: 105
     openIssue: 87
     commit: 819
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-19
     release: 0
     mergedPR: 766
-    openPR: 180
+    openPR: 184
     closedIssue: 273
     openIssue: 124
     commit: 1687
 total:
   release: 1
   mergedPR: 3729
-  openPR: 226
+  openPR: 230
   closedIssue: 4505
   openIssue: 505
   commit: 14086
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cli
-collectedAt: 2026-09-09T05:17:23Z
+collectedAt: 2026-09-09T19:20:12Z
 loc:
   Json:
     code: 2850142
