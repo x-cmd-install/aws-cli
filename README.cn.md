@@ -12,33 +12,7 @@ Universal Command Line Interface for Amazon Web Services
 x install aws-cli
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/aws/aws-cli>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `2.0.0dev0`
-- **最近提交**: 2026-08-27
-
-## 流行度
-
-- **Star**: 17,244 · **Fork**: 4,647 · **开放 issue**: 5,011 · **贡献者**: 385
-
-## 累计统计
-
-- **发布数**: 1 · **已合并 PR**: 3731 · **开放 PR**: 228 · **已关闭 issue**: 4505 · **开放 issue**: 506 · **提交数**: 14086
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 8 | 43 | 1 | 26 | 3 |
-| 90d | 2026-06-12 | 0 | 66 | 74 | 18 | 46 | 136 |
-| 360d | 2025-09-15 | 0 | 416 | 140 | 105 | 87 | 819 |
-
-## 代码规模
+## 代码洞察
 
 合计: **3,237,528** 行代码（覆盖前 5 种语言、共 **9735** 个文件）。
 
@@ -60,6 +34,35 @@ x install aws-cli
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## 源代码
+
+- **上游仓库**: <https://github.com/aws/aws-cli>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `2.0.0dev0`
+- **最近提交**: 2026-08-27
+
+## 流行度
+
+- **Star**: 17,246 · **Fork**: 4,648 · **开放 issue**: 5,010 · **贡献者**: 385
+
+## 累计统计
+
+- **发布数**: 1 · **已合并 PR**: 3733 · **开放 PR**: 228 · **已关闭 issue**: 4504 · **开放 issue**: 506 · **提交数**: 14086
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 9 | 44 | 1 | 26 | 3 |
+| last60d | 2026-07-12 | 0 | 31 | 57 | 5 | 38 | 63 |
+| 90d | 2026-06-12 | 0 | 68 | 74 | 18 | 46 | 136 |
+| last180d | 2026-03-14 | 0 | 200 | 115 | 37 | 69 | 387 |
+| 360d | 2025-09-15 | 0 | 418 | 140 | 105 | 87 | 819 |
+| last720d | 2024-09-20 | 0 | 767 | 182 | 273 | 125 | 1684 |
+
 ## 改进这些数据
 
 aws-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aws-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -69,4 +72,4 @@ aws-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:21Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:57:35Z._
