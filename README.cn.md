@@ -4,7 +4,7 @@
 
 Universal Command Line Interface for Amazon Web Services
 
-![aws-cli](https://repo.x-cmd.io/aws-cli.svg)
+![aws-cli](https://repo.x-cmd.io/aws-cli.svg?lang=zh)
 
 ## 安装
 
@@ -24,19 +24,19 @@ x install aws-cli
 
 ## 流行度
 
-- **Star**: 17,243 · **Fork**: 4,647 · **开放 issue**: 5,010 · **贡献者**: 386
+- **Star**: 17,244 · **Fork**: 4,647 · **开放 issue**: 5,011 · **贡献者**: 385
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 3729 · **开放 PR**: 229 · **已关闭 issue**: 4505 · **开放 issue**: 505 · **提交数**: 14086
+- **发布数**: 1 · **已合并 PR**: 3731 · **开放 PR**: 228 · **已关闭 issue**: 4505 · **开放 issue**: 506 · **提交数**: 14086
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 6 | 44 | 1 | 25 | 3 |
-| 90d | 2026-06-12 | 0 | 64 | 75 | 18 | 45 | 136 |
-| 360d | 2025-09-15 | 0 | 414 | 141 | 105 | 86 | 819 |
+| 30d | 2026-08-11 | 0 | 8 | 43 | 1 | 26 | 3 |
+| 90d | 2026-06-12 | 0 | 66 | 74 | 18 | 46 | 136 |
+| 360d | 2025-09-15 | 0 | 416 | 140 | 105 | 87 | 819 |
 
 ## 代码规模
 
@@ -69,4 +69,4 @@ aws-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:19:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:21Z._
