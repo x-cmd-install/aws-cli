@@ -1,24 +1,72 @@
 # aws-cli
 
+[中文版本](./README.cn.md)
+
 Universal Command Line Interface for Amazon Web Services
 
-- **Upstream**: <https://github.com/aws/aws-cli>
-- **Homepage**: <>
-- **Latest release**: `2.0.0dev0` (n/a)
-- **Last commit**: 2026-08-27
-- **License**: NOASSERTION
-- **Stars**: 17241 · **Forks**: 4647 · **Open issues**: 5010 · **Contributors**: 386
+![aws-cli](https://repo.x-cmd.io/aws-cli.svg)
 
-## Installation
+## Install
 
 ```sh
 x install aws-cli
 ```
 
-See <https://x-cmd.com/install/aws-cli> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/aws/aws-cli>
+- **License**: NOASSERTION
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:20:34Z._
+- **Latest**: `2.0.0dev0`
+- **Last commit**: 2026-08-27
+
+## Popularity
+
+- **Stars**: 17,243 · **Forks**: 4,647 · **Open issues**: 5,010 · **Contributors**: 386
+
+## Totals (cumulative)
+
+- **Releases**: 1 · **Merged PRs**: 3729 · **Open PRs**: 229 · **Closed issues**: 4505 · **Open issues**: 505 · **Commits**: 14086
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 6 | 44 | 1 | 25 | 3 |
+| 90d | 2026-06-12 | 0 | 64 | 75 | 18 | 45 | 136 |
+| 360d | 2025-09-15 | 0 | 414 | 141 | 105 | 86 | 819 |
+
+## Code size
+
+Total: **3,237,528** lines of code across **9735** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 2,850,142 | 0 | 247 | 2674 |
+| Python | 194,044 | 22,034 | 29,989 | 977 |
+| ReStructuredText | 178,750 | 0 | 42,255 | 5860 |
+| Xml | 14,054 | 0 | 16 | 217 |
+| Html | 207 | 4 | 19 | 7 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/29 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aws-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/aws-cli.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:19:11Z._
