@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3749 · **Open PRs**: 233 · **Closed issues**: 4509 · **Open issues**: 506 · **Commits**: 14087
+- **Releases**: 1 · **Merged PRs**: 3750 · **Open PRs**: 233 · **Closed issues**: 4509 · **Open issues**: 506 · **Commits**: 14087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 23 | 29 | 2 | 10 | 1 |
-| last60d | 2026-07-22 | 0 | 36 | 62 | 6 | 37 | 28 |
-| 90d | 2026-06-22 | 0 | 70 | 76 | 16 | 46 | 108 |
-| last180d | 2026-03-24 | 0 | 203 | 121 | 37 | 66 | 348 |
-| 360d | 2025-09-25 | 0 | 425 | 147 | 104 | 87 | 788 |
-| last720d | 2024-09-30 | 0 | 778 | 185 | 272 | 123 | 1663 |
+| 30d | 2026-08-22 | 0 | 23 | 28 | 2 | 10 | 1 |
+| last60d | 2026-07-23 | 0 | 37 | 62 | 5 | 35 | 28 |
+| 90d | 2026-06-23 | 0 | 71 | 76 | 16 | 46 | 108 |
+| last180d | 2026-03-25 | 0 | 199 | 121 | 35 | 65 | 348 |
+| 360d | 2025-09-26 | 0 | 422 | 147 | 104 | 87 | 788 |
+| last720d | 2024-10-01 | 0 | 779 | 185 | 272 | 123 | 1663 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:40:48Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:31:45Z._
