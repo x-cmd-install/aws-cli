@@ -30,7 +30,7 @@ Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/29 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 4/28 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,267 · **Forks**: 4,651 · **Open issues**: 5,015 · **Contributors**: 385
+- **Stars**: 17,270 · **Forks**: 4,651 · **Open issues**: 5,016 · **Contributors**: 385
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3750 · **Open PRs**: 233 · **Closed issues**: 4509 · **Open issues**: 506 · **Commits**: 14087
+- **Releases**: 1 · **Merged PRs**: 3752 · **Open PRs**: 236 · **Closed issues**: 4509 · **Open issues**: 507 · **Commits**: 14087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 23 | 28 | 2 | 10 | 1 |
-| last60d | 2026-07-23 | 0 | 37 | 62 | 5 | 35 | 28 |
-| 90d | 2026-06-23 | 0 | 71 | 76 | 16 | 46 | 108 |
-| last180d | 2026-03-25 | 0 | 199 | 121 | 35 | 65 | 348 |
-| 360d | 2025-09-26 | 0 | 422 | 147 | 104 | 87 | 788 |
-| last720d | 2024-10-01 | 0 | 779 | 185 | 272 | 123 | 1663 |
+| 30d | 2026-08-23 | 0 | 24 | 29 | 2 | 10 | 1 |
+| last60d | 2026-07-24 | 0 | 39 | 65 | 5 | 36 | 28 |
+| 90d | 2026-06-24 | 0 | 72 | 79 | 16 | 46 | 108 |
+| last180d | 2026-03-26 | 0 | 200 | 123 | 35 | 66 | 348 |
+| 360d | 2025-09-27 | 0 | 424 | 149 | 104 | 88 | 788 |
+| last720d | 2024-10-02 | 0 | 780 | 188 | 272 | 123 | 1656 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:31:45Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:34:51Z._
