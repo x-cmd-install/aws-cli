@@ -4,7 +4,7 @@
 
 Universal Command Line Interface for Amazon Web Services
 
-[![x-cmd/install — aws-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-cli.svg?lang=zh)](https://x-cmd.com/install/aws-cli)
+[![x-cmd/install — aws-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aws-cli.svg?lang=zh)](https://x-cmd.com/install/aws-cli)
 
 ## 安装
 
@@ -46,22 +46,22 @@ x install aws-cli
 
 ## 流行度
 
-- **Star**: 17,270 · **Fork**: 4,651 · **开放 issue**: 5,016 · **贡献者**: 385
+- **Star**: 17,271 · **Fork**: 4,652 · **开放 issue**: 5,018 · **贡献者**: 385
 
 ## 累计统计
 
-- **发布数**: 1 · **已合并 PR**: 3752 · **开放 PR**: 236 · **已关闭 issue**: 4509 · **开放 issue**: 507 · **提交数**: 14087
+- **发布数**: 1 · **已合并 PR**: 3756 · **开放 PR**: 238 · **已关闭 issue**: 4509 · **开放 issue**: 509 · **提交数**: 14087
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 24 | 29 | 2 | 10 | 1 |
-| last60d | 2026-07-24 | 0 | 39 | 65 | 5 | 36 | 28 |
-| 90d | 2026-06-24 | 0 | 72 | 79 | 16 | 46 | 108 |
-| last180d | 2026-03-26 | 0 | 200 | 123 | 35 | 66 | 348 |
-| 360d | 2025-09-27 | 0 | 424 | 149 | 104 | 88 | 788 |
-| last720d | 2024-10-02 | 0 | 780 | 188 | 272 | 123 | 1656 |
+| 30d | 2026-08-24 | 0 | 28 | 31 | 2 | 12 | 1 |
+| last60d | 2026-07-25 | 0 | 43 | 67 | 4 | 38 | 28 |
+| 90d | 2026-06-25 | 0 | 75 | 81 | 16 | 48 | 108 |
+| last180d | 2026-03-27 | 0 | 202 | 125 | 35 | 68 | 348 |
+| 360d | 2025-09-28 | 0 | 427 | 151 | 104 | 90 | 788 |
+| last720d | 2024-10-03 | 0 | 783 | 190 | 272 | 125 | 1653 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ aws-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:34:52Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:39:37Z._

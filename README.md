@@ -4,7 +4,7 @@
 
 Universal Command Line Interface for Amazon Web Services
 
-[![x-cmd/install — aws-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aws-cli.svg)](https://x-cmd.com/install/aws-cli)
+[![x-cmd/install — aws-cli Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/aws-cli.svg)](https://x-cmd.com/install/aws-cli)
 
 ## Install
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,270 · **Forks**: 4,651 · **Open issues**: 5,016 · **Contributors**: 385
+- **Stars**: 17,271 · **Forks**: 4,652 · **Open issues**: 5,018 · **Contributors**: 385
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3752 · **Open PRs**: 236 · **Closed issues**: 4509 · **Open issues**: 507 · **Commits**: 14087
+- **Releases**: 1 · **Merged PRs**: 3756 · **Open PRs**: 238 · **Closed issues**: 4509 · **Open issues**: 509 · **Commits**: 14087
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 24 | 29 | 2 | 10 | 1 |
-| last60d | 2026-07-24 | 0 | 39 | 65 | 5 | 36 | 28 |
-| 90d | 2026-06-24 | 0 | 72 | 79 | 16 | 46 | 108 |
-| last180d | 2026-03-26 | 0 | 200 | 123 | 35 | 66 | 348 |
-| 360d | 2025-09-27 | 0 | 424 | 149 | 104 | 88 | 788 |
-| last720d | 2024-10-02 | 0 | 780 | 188 | 272 | 123 | 1656 |
+| 30d | 2026-08-24 | 0 | 28 | 31 | 2 | 12 | 1 |
+| last60d | 2026-07-25 | 0 | 43 | 67 | 4 | 38 | 28 |
+| 90d | 2026-06-25 | 0 | 75 | 81 | 16 | 48 | 108 |
+| last180d | 2026-03-27 | 0 | 202 | 125 | 35 | 68 | 348 |
+| 360d | 2025-09-28 | 0 | 427 | 151 | 104 | 90 | 788 |
+| last720d | 2024-10-03 | 0 | 783 | 190 | 272 | 125 | 1653 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:34:51Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:39:37Z._
