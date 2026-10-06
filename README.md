@@ -26,13 +26,13 @@ Total: **3,288,842** lines of code across **10073** files in the top 5 languages
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/28 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0dev0`
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 17,291 · **Forks**: 4,719 · **Open issues**: 5,027 · **Contributors**: 379
+- **Stars**: 17,292 · **Forks**: 4,722 · **Open issues**: 5,032 · **Contributors**: 379
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3778 · **Open PRs**: 239 · **Closed issues**: 4513 · **Open issues**: 514 · **Commits**: 17800
+- **Releases**: 1 · **Merged PRs**: 3779 · **Open PRs**: 244 · **Closed issues**: 4513 · **Open issues**: 519 · **Commits**: 17802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 37 | 33 | 2 | 17 | 84 |
-| last60d | 2026-08-06 | 0 | 56 | 64 | 4 | 40 | 149 |
-| 90d | 2026-07-07 | 0 | 76 | 75 | 11 | 51 | 229 |
-| last180d | 2026-04-08 | 0 | 203 | 125 | 39 | 71 | 466 |
-| 360d | 2025-10-10 | 0 | 435 | 151 | 101 | 95 | 965 |
-| last720d | 2024-10-15 | 0 | 799 | 191 | 272 | 125 | 2032 |
+| 30d | 2026-09-06 | 0 | 38 | 38 | 2 | 22 | 85 |
+| last60d | 2026-08-07 | 0 | 57 | 67 | 4 | 45 | 150 |
+| 90d | 2026-07-08 | 0 | 76 | 78 | 11 | 54 | 230 |
+| last180d | 2026-04-09 | 0 | 202 | 130 | 38 | 76 | 467 |
+| 360d | 2025-10-11 | 0 | 436 | 156 | 101 | 100 | 966 |
+| last720d | 2024-10-16 | 0 | 800 | 196 | 270 | 130 | 2030 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:05:40Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:49:37Z._
