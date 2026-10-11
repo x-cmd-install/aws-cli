@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,296 · **Forks**: 4,724 · **Open issues**: 5,035 · **Contributors**: 380
+- **Stars**: 17,298 · **Forks**: 4,724 · **Open issues**: 5,035 · **Contributors**: 380
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 43 | 34 | 2 | 23 | 101 |
-| last60d | 2026-08-11 | 0 | 63 | 63 | 5 | 47 | 166 |
-| 90d | 2026-07-12 | 0 | 86 | 74 | 11 | 57 | 246 |
-| last180d | 2026-04-13 | 0 | 203 | 126 | 37 | 79 | 483 |
-| 360d | 2025-10-15 | 0 | 443 | 149 | 97 | 103 | 982 |
-| last720d | 2024-10-20 | 0 | 807 | 190 | 268 | 132 | 2039 |
+| 30d | 2026-09-11 | 0 | 40 | 34 | 2 | 23 | 77 |
+| last60d | 2026-08-12 | 0 | 62 | 63 | 4 | 47 | 153 |
+| 90d | 2026-07-13 | 0 | 86 | 74 | 11 | 57 | 224 |
+| last180d | 2026-04-14 | 0 | 202 | 126 | 36 | 79 | 468 |
+| 360d | 2025-10-16 | 0 | 443 | 148 | 96 | 103 | 971 |
+| last720d | 2024-10-21 | 0 | 806 | 189 | 267 | 132 | 2039 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:16:03Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:12:53Z._
