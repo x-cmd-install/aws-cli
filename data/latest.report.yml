@@ -2,28 +2,28 @@ about:
   description: "Universal Command Line Interface for Amazon Web Services"
   license: NOASSERTION
   homepage: 
-  head: 2d3e88e
+  head: a743699
   archived: false
   latestVersion: "2.0.0dev0"
   latestRelease: ""
   latestPrerelease: "2.0.0dev0"
-  collectedAt: 2026-10-29T06:16:30Z
+  collectedAt: 2026-10-30T06:18:29Z
 timeline:
   created: 2012-11-20
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2018-11-26
   lastRelease: 
   lastPrerelease: 2018-11-26
 popularity:
-  star: 17332
+  star: 17334
   watcher: 557
-  fork: 4741
+  fork: 4743
   release: 1
   contributor: 383
-  pullRequest: 5255
+  pullRequest: 5263
   issue: 5039
 language:
-  Python: 12781733
+  Python: 12784466
   Shell: 39199
   PowerShell: 20800
   HTML: 10857
@@ -31,81 +31,81 @@ language:
   Dockerfile: 1508
   Batchfile: 898
   Makefile: 867
-totalBytes: 12861532
+totalBytes: 12864265
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 43
-    openPR: 32
-    closedIssue: 6
+    mergedPR: 46
+    openPR: 36
+    closedIssue: 5
     openIssue: 12
-    commit: 79
+    commit: 83
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 87
-    openPR: 52
+    mergedPR: 90
+    openPR: 56
     closedIssue: 11
     openIssue: 24
-    commit: 178
+    commit: 182
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 105
-    openPR: 84
+    mergedPR: 108
+    openPR: 87
     closedIssue: 15
     openIssue: 47
-    commit: 245
+    commit: 249
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 208
-    openPR: 129
+    mergedPR: 211
+    openPR: 132
     closedIssue: 42
     openIssue: 73
-    commit: 482
+    commit: 486
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 466
-    openPR: 158
+    mergedPR: 469
+    openPR: 163
     closedIssue: 98
     openIssue: 99
-    commit: 998
+    commit: 1002
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
-    mergedPR: 826
-    openPR: 199
+    mergedPR: 829
+    openPR: 204
     closedIssue: 271
     openIssue: 126
     commit: 2065
 total:
   release: 1
-  mergedPR: 3824
-  openPR: 252
+  mergedPR: 3827
+  openPR: 257
   closedIssue: 4521
   openIssue: 518
-  commit: 17887
+  commit: 17891
 ---
 path: /home/runner/.x-repo/github.com/aws/aws-cli
-collectedAt: 2026-10-29T06:17:21Z
+collectedAt: 2026-10-30T06:19:19Z
 loc:
   Json:
-    code: 2841841
+    code: 2842083
     comments: 0
     blanks: 21
     files: 2662
   Python:
-    code: 283227
-    comments: 27991
-    blanks: 41482
-    files: 1307
+    code: 283423
+    comments: 28028
+    blanks: 41514
+    files: 1308
   ReStructuredText:
-    code: 175457
+    code: 175466
     comments: 0
-    blanks: 38612
+    blanks: 38615
     files: 5901
   Xml:
     code: 13698
@@ -128,9 +128,9 @@ loc:
     blanks: 73
     files: 1
   Html:
-    code: 224
+    code: 230
     comments: 4
-    blanks: 22
+    blanks: 23
     files: 8
   Toml:
     code: 125
@@ -194,14 +194,14 @@ loc:
     files: 5
   Text:
     code: 0
-    comments: 2465
+    comments: 2476
     blanks: 23
     files: 32
 total:
-  code: 3318057
-  comments: 32143
-  blanks: 80924
-  files: 10152
+  code: 3318510
+  comments: 32191
+  blanks: 80960
+  files: 10153
 ---
 date: "2026-10-26"
 repo:
