@@ -14,13 +14,13 @@ x install aws-cli
 
 ## Code insight
 
-Total: **3,336,394** lines of code across **10064** files in the top 5 languages.
+Total: **3,338,629** lines of code across **10065** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,847,683 | 0 | 21 | 2668 |
-| Python | 285,552 | 28,102 | 41,749 | 1308 |
-| ReStructuredText | 186,077 | 0 | 40,535 | 5873 |
+| Json | 2,848,920 | 0 | 21 | 2668 |
+| Python | 286,525 | 28,239 | 41,907 | 1309 |
+| ReStructuredText | 186,102 | 0 | 40,541 | 5873 |
 | Xml | 13,698 | 0 | 16 | 204 |
 | Yaml | 1,536 | 38 | 42 | 11 |
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.0.0dev0`
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 17,344 · **Forks**: 4,751 · **Open issues**: 5,045 · **Contributors**: 386
+- **Stars**: 17,345 · **Forks**: 4,752 · **Open issues**: 5,045 · **Contributors**: 386
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3853 · **Open PRs**: 254 · **Closed issues**: 4524 · **Open issues**: 521 · **Commits**: 17923
+- **Releases**: 1 · **Merged PRs**: 3858 · **Open PRs**: 253 · **Closed issues**: 4525 · **Open issues**: 520 · **Commits**: 17932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 56 | 31 | 3 | 8 | 96 |
-| last60d | 2026-09-07 | 0 | 111 | 53 | 12 | 26 | 204 |
-| 90d | 2026-08-08 | 0 | 131 | 80 | 15 | 48 | 267 |
-| last180d | 2026-05-10 | 0 | 230 | 124 | 41 | 75 | 508 |
-| 360d | 2025-11-11 | 0 | 491 | 160 | 96 | 99 | 1020 |
-| last720d | 2024-11-16 | 0 | 848 | 201 | 270 | 128 | 2071 |
+| 30d | 2026-10-08 | 0 | 58 | 31 | 3 | 7 | 105 |
+| last60d | 2026-09-08 | 0 | 114 | 52 | 11 | 25 | 213 |
+| 90d | 2026-08-09 | 0 | 135 | 79 | 15 | 48 | 276 |
+| last180d | 2026-05-11 | 0 | 234 | 121 | 41 | 75 | 517 |
+| 360d | 2025-11-12 | 0 | 496 | 159 | 96 | 99 | 1029 |
+| last720d | 2024-11-17 | 0 | 852 | 199 | 270 | 128 | 2080 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:08:43Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:34:25Z._
