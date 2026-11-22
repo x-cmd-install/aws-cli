@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,383 · **Forks**: 4,770 · **Open issues**: 5,055 · **Contributors**: 388
+- **Stars**: 17,384 · **Forks**: 4,771 · **Open issues**: 5,056 · **Contributors**: 388
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 3898 · **Open PRs**: 250 · **Closed issues**: 4540 · **Open issues**: 515 · **Commits**: 18009
+- **Releases**: 1 · **Merged PRs**: 3898 · **Open PRs**: 251 · **Closed issues**: 4540 · **Open issues**: 516 · **Commits**: 18009
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 62 | 38 | 4 | 13 | 137 |
-| last60d | 2026-09-22 | 0 | 123 | 57 | 13 | 25 | 241 |
-| 90d | 2026-08-23 | 0 | 165 | 67 | 21 | 32 | 323 |
-| last180d | 2026-05-25 | 0 | 256 | 117 | 50 | 69 | 557 |
-| 360d | 2025-11-26 | 0 | 514 | 159 | 102 | 95 | 1058 |
-| last720d | 2024-12-01 | 0 | 877 | 197 | 274 | 123 | 2119 |
+| 30d | 2026-10-23 | 0 | 62 | 38 | 4 | 14 | 115 |
+| last60d | 2026-09-23 | 0 | 120 | 55 | 13 | 25 | 216 |
+| 90d | 2026-08-24 | 0 | 165 | 68 | 21 | 33 | 308 |
+| last180d | 2026-05-26 | 0 | 254 | 118 | 50 | 69 | 538 |
+| 360d | 2025-11-27 | 0 | 514 | 160 | 102 | 96 | 1044 |
+| last720d | 2024-12-02 | 0 | 876 | 198 | 273 | 124 | 2119 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for aws-cli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:39:53Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:19:17Z._
